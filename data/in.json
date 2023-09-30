@@ -202,7 +202,7 @@
         "country": "India",
         "countrycode": "IN",
         "iso_3166_2": null,
-        "state": " ",
+        "state": "",
         "language": "",
         "languagecodes": "IN",
         "votes": 11980,
@@ -18086,5 +18086,5 @@
         "geo_lat": null,
         "geo_long": null,
         "has_extended_info": false
-    }
+    },
 ]
